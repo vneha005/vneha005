@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vneha005
-- 👀 I’m interested in Data Analytics
+- 👀 I’m interested in Data-related roles such as Data Analytics, Data Engineers BI Analyst, and BI developer.
 - 🌱 I’m currently learning Python, SQL, Power BI
 - 📫 you can reach me via email at vneha005@outlook.com
 
